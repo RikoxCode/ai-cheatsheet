@@ -1,3 +1,7 @@
+![AI-Cheatsheet Logo](https://github.com/RikoxCode/ai-cheatsheet/assets/111433435/e242cc2f-3941-4e3d-b93d-cd134a614325)
+
+
+
 # Künstliche Intelligenz: Eine Übersicht
 
 ## Definition
