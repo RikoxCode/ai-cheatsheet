@@ -1,8 +1,8 @@
-![AI-Cheatsheet Logo](https://github.com/RikoxCode/ai-cheatsheet/assets/111433435/e242cc2f-3941-4e3d-b93d-cd134a614325)
+![AI-Cheatsheet Logo](./images/artificial-intelligence-7938959_1920.jpg ':size=1900:400')
 
 
 
-# Künstliche Intelligenz: Eine Übersicht
+# Künstliche Intelligenz
 
 ## Definition
 Künstliche Intelligenz (KI) bezeichnet die Simulation menschlicher Intelligenzprozesse durch Computer oder Maschinen.
