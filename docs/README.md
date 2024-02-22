@@ -23,6 +23,9 @@ Wichtige ethische Fragen betreffen Datenschutz, Diskriminierung durch Algorithme
 Die fortlaufende Entwicklung der KI birgt das Potenzial, viele Aspekte des menschlichen Lebens zu verändern.
 
 
+# 
+
+
 
 
 # Unterschiede zwischen Neuronen im menschlichen Gehirn und in der künstlichen Intelligenz (KI)
