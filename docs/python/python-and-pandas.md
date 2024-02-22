@@ -86,3 +86,27 @@ Fehlende Werte mit einem Wert ersetzen
 df.fillna(value)  
 ```
 
+# Daten gruppieren
+Beschreibung
+```python
+gruppiert = df.groupby('spalte')
+```
+
+Beschreibung
+```python
+gruppiert['spalte'].mean()
+gruppiert['spalte'].sum()
+gruppiert['spalte'].max()
+```
+
+# Daten speichern
+In CSV-Datei speichern
+```python
+df.to_csv('neue_datei.csv', index=False)
+```
+
+In Excel-Datei speichern
+```python
+df.to_excel('neue_datei.xlsx', index=False)
+Beschreibung
+```
