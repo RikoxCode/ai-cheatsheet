@@ -15,10 +15,25 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      loadSidebar: true
+      loadSidebar: true,
+      name: '<span><b>AI-Cheatsheet</b></span>',
+      loadFooter: true,
+      loadFooter: '_footer.md',
+      sidebarDisplayLevel: 1
     };
   </script>
+
+  <!-- docsify (latest) -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- docsify-search (latest) -->
+  <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
+
+  <!-- use the footer plugin latest version -->
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+
+  <!-- use the sidebar-collapse plugin latest version -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 
 </html>

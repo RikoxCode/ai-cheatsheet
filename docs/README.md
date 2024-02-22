@@ -1,50 +1,28 @@
-![AI-Cheatsheet Logo](./images/artificial-intelligence-7938959_1920.jpg ':size=1900:400')
+# AI-Cheatsheet
+
+Willkommen zum AI-Cheatsheet! Hier findest du eine kompakte Übersicht über verschiedene Konzepte der Künstlichen Intelligenz (KI) sowie Vergleiche mit dem menschlichen Gehirn. Dieses Cheatsheet bietet eine schnelle Referenz für Studenten, Entwickler und Interessierte, die sich mit KI beschäftigen.
+
+## Inhaltsverzeichnis
 
 
+- [AI-Cheatsheet](#ai-cheatsheet)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [Künstliche Intelligenz und ihre Lernmethoden](#künstliche-intelligenz-und-ihre-lernmethoden)
+  - [Vergleich zwischen Künstlicher Intelligenz und dem Menschlichen Gehirn](#vergleich-zwischen-künstlicher-intelligenz-und-dem-menschlichen-gehirn)
+  - [Los geht's!](#los-gehts)
 
-# Künstliche Intelligenz
+## Künstliche Intelligenz und ihre Lernmethoden
 
-## Definition
-Künstliche Intelligenz (KI) bezeichnet die Simulation menschlicher Intelligenzprozesse durch Computer oder Maschinen.
+Hier erfährst du mehr über die verschiedenen Lernmethoden in der KI, darunter Supervised Learning, Unsupervised Learning und Reinforcement Learning.
 
-## Grundlagen
-KI basiert auf Algorithmen und Daten, die Computern ermöglichen, menschenähnliche Entscheidungen zu treffen oder Probleme zu lösen.
+[Künstliche Intelligenz und ihre Lernmethoden](/ai/README.md)
 
-## Techniken
-Die Techniken der KI umfassen maschinelles Lernen, neuronale Netze, Expertensysteme und natürliche Sprachverarbeitung.
+## Vergleich zwischen Künstlicher Intelligenz und dem Menschlichen Gehirn
 
-## Anwendungen
-KI wird in verschiedenen Bereichen wie Gesundheitswesen, Finanzwesen, Automobilindustrie, Bildung und Marketing eingesetzt.
+Entdecke die Unterschiede und Gemeinsamkeiten zwischen künstlicher Intelligenz und dem menschlichen Gehirn, einschließlich ihres Lernprozesses und ihrer Funktionsweise.
 
-## Ethik und Herausforderungen
-Wichtige ethische Fragen betreffen Datenschutz, Diskriminierung durch Algorithmen und potenzielle Arbeitsplatzverluste.
+[Künstliche Intelligenz und ihre Lernmethoden](/ai/ai-x-gehirn.md)
 
-## Zukunftsaussichten
-Die fortlaufende Entwicklung der KI birgt das Potenzial, viele Aspekte des menschlichen Lebens zu verändern.
+## Los geht's!
 
-
-# 
-
-
-
-
-# Unterschiede zwischen Neuronen im menschlichen Gehirn und in der künstlichen Intelligenz (KI)
-
-#### Biologie vs. KI: 
-> Menschliche Neuronen sind biologisch, KI-Neuronen sind künstlich simuliert.
-
-#### Struktur: 
-> Menschliche Neuronen sind komplex mit Zellkörper, Dendriten und Axon, KI-Neuronen sind mathematische Einheiten.
-
-#### Konnektivität: 
-> Menschliche Neuronen sind stark miteinander verbunden durch Synapsen, KI-Neuronen sind oft vordefiniert und kommunizieren durch mathematische Funktionen.
-
-#### Lernen: 
-> Menschliche Neuronen lernen biologisch, während in der KI Lernalgorithmen auf Daten basieren.
-
-#### Größe: 
-> Das menschliche Gehirn hat schätzungsweise 100 Milliarden Neuronen, KI-Neuronale Netze variieren stark.
-
-#### Funktionalität: 
-> Menschliche Neuronen unterstützen eine Vielzahl von Funktionen wie Wahrnehmung und Bewegung, während KI-Neuronen oft für Mustererkennung und Vorhersage verwendet werden.
-
+Nutze dieses Cheatsheet als praktisches Nachschlagewerk für dein Studium, deine Projekte oder einfach zum Vertiefen deines Verständnisses für Künstliche Intelligenz. Viel Spaß beim Lernen!
