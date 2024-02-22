@@ -25,7 +25,7 @@ Die fortlaufende Entwicklung der KI birgt das Potenzial, viele Aspekte des mensc
 
 
 
-## Unterschiede zwischen Neuronen im menschlichen Gehirn und in der künstlichen Intelligenz (KI)
+# Unterschiede zwischen Neuronen im menschlichen Gehirn und in der künstlichen Intelligenz (KI)
 
 #### Biologie vs. KI: 
 > Menschliche Neuronen sind biologisch, KI-Neuronen sind künstlich simuliert.
