@@ -10,4 +10,4 @@
 - Schnelle Referenz für Studenten und Entwickler
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[Get Started](#ai-cheatsheet)
