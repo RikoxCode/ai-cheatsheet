@@ -39,4 +39,11 @@ Im Gegensatz zum Supervised Learning werden beim Unsupervised Learning Daten ohn
 ## 3. Reinforcement Learning:
 Reinforcement Learning ist inspiriert vom Verhalten von Lebewesen, die durch Interaktion mit ihrer Umgebung lernen. Hier lernt ein Algorithmus, indem er positive oder negative Belohnungen für seine Aktionen in einer bestimmten Umgebung erhält. Das Ziel ist es, eine Handlungsstrategie zu entwickeln, die die Gesamtbelohnung maximiert. Dieser Ansatz wird oft in der Robotik, in Spielen und in der Entscheidungsfindung eingesetzt.
 
-Diese drei Hauptmethoden des maschinellen Lernens ermöglichen es KI-Systemen, sich an verschiedene Szenarien anzupassen und komplexe Probleme zu lösen, indem sie Muster in Daten erkennen und aufgrund dieser Muster Entscheidungen treffen.
+> Diese drei Hauptmethoden des maschinellen Lernens ermöglichen es KI-Systemen, sich an verschiedene Szenarien anzupassen und komplexe Probleme zu lösen, indem sie Muster in
+> Daten erkennen und aufgrund dieser Muster Entscheidungen treffen.
+
+
+
+### Overview
+
+![Dataframe overview](../../images/1_DEnuJuZlZnt_RoAfgPj6Gw.png)

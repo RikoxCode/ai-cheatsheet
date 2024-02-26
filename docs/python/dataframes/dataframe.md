@@ -20,6 +20,7 @@
 > Gewicht einer Person. Das heisst, dass die Daten messbar sind.
 
 
+
 ### Overview
 
-![Dataframe overview](../../images/1_DEnuJuZlZnt_RoAfgPj6Gw.png)
+![Dataframe overview](../../images/spaces_-MkLiIMGj4o3P36c1qsk_uploads_qEmsST51wPMHR4DG3LKU_datatypes.png)
