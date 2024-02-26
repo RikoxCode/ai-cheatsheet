@@ -22,12 +22,15 @@ sns.histplot(data['Spalte'])
 plt.show()
 ```
 
+![Histogramm.png](../../../images/histogram.PNG)
+
 ### Kernverteilungsschätzung (KDE)
 
 ```python
 sns.kdeplot(data['Spalte'], shade=True)
 plt.show()
 ```
+![Histogramm.png](../../../images/kdeplot.png)
 
 ## Bivariate Diagramme
 
@@ -37,6 +40,8 @@ plt.show()
 sns.scatterplot(x='Spalte1', y='Spalte2', data=data)
 plt.show()
 ```
+![Histogramm.png](../../../images/scatterplot.png)
+
 
 ### Joint Plot für bivariate Analysen
 
@@ -44,6 +49,7 @@ plt.show()
 sns.jointplot(x='Spalte1', y='Spalte2', data=data, kind='scatter')
 plt.show()
 ```
+![Histogramm.png](../../../images/jointplot.png)
 
 ## Kategorische Diagramme
 
@@ -53,6 +59,7 @@ plt.show()
 sns.boxplot(x='Kategorie', y='Wert', data=data)
 plt.show()
 ```
+![Histogramm.png](../../../images/boxplot.png)
 
 ### Violinplot
 
@@ -60,6 +67,7 @@ plt.show()
 sns.violinplot(x='Kategorie', y='Wert', data=data)
 plt.show()
 ```
+![Histogramm.png](../../../images/violinplot.png)
 
 ### Balkendiagramm (Bar Plot)
 
@@ -67,6 +75,7 @@ plt.show()
 sns.barplot(x='Kategorie', y='Wert', data=data)
 plt.show()
 ```
+![Histogramm.png](../../../images/barplot.png)
 
 ## Matrix-Diagramme
 
@@ -77,3 +86,4 @@ correlation_matrix = data.corr()
 sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm')
 plt.show()
 ```
+![Histogramm.png](../../../images/heatmap.png)
