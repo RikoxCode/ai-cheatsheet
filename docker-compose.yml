@@ -1,0 +1,11 @@
+version: '3'
+services:
+  ai-cheatsheet:
+    image: node:latest
+    ports:
+      - "38029:3000"
+    expose:
+      - "38029"
+    volumes:
+      - ./docs:/app/docs
+    command: sh -c "npm install -g docsify-cli@latest && docsify serve /app/docs"
