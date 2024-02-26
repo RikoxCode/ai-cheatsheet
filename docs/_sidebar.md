@@ -13,7 +13,7 @@
         - [Daten gruppieren *](python/pandas-erweiterungen/DatenGruppieren.md)
         - [Daten speichern](python/pandas-erweiterungen/DatenSpeichern.md)
     - [Dataframes *](python/dataframes/dataframe.md)
-        - [Bearbeitung *](python/dataframes/editing/README.md)
+        - [Aufbereitung *](python/dataframes/editing/README.md)
         - [Modelierung *](python/dataframes/editing/modelierung.md)
         - [Aussreisser *](python/dataframes/editing/aussreisser-erkennen.md)
         - [Visualisierung *](python/dataframes/visualizing/README.md)
