@@ -9,5 +9,5 @@
 - Vergleiche mit dem menschlichen Gehirn
 - Schnelle Referenz für Studenten und Entwickler
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/RikoxCode/ai-cheatsheet)
 [Get Started](#ai-cheatsheet)
