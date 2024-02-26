@@ -7,5 +7,5 @@ services:
     expose:
       - "38029"
     volumes:
-      - ./src:/app
+      - ./docs:/app/docs
     command: sh -c "npm install -g docsify-cli@latest && docsify serve /app/docs"
